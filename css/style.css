@@ -412,14 +412,14 @@ footer svg.svg-inline--fa:hover {
   margin-bottom: 1.3rem;
 }
 .form-control {
-  background-color: #676e73;
+  background-color: #7E94BF;
   border-radius: 0;
   border: .15rem solid #737b80;
   color: white!important;
   font-size: 1.1rem;
 }
 .form-control:focus {
-  background: #676e73;
+  background: #7E94BF;
   border: .15rem solid #93979b;
 }
 .form-group input::placeholder,
