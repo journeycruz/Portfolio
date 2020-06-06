@@ -99,7 +99,7 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: RGBA(140,108,90,.8);
+  background: RGBA(217,199,184,.8);
   padding: .9rem .5rem;
 }
 .cursive {
@@ -374,7 +374,7 @@ a.nav-link.filter {
 /*============= FOOTER =============*/
 
 footer {
-  background-color: RGBA(140,108,90,.8);
+  background-color: RGBA(217,199,184,.8);
 }
 footer .cursive {
   margin-bottom: 1rem;
