@@ -214,7 +214,7 @@ $(document).ready(function () {
 
 /*========== PORTFOLIO FILTER (ISOTOPE) INITIALIZATION ==========*/
 var $grid = $('.grid').isotope({
- filter: '.web-development',
+ filter: '.web-design',
  itemSelector: '.element-item',
  layoutMode: 'fitRows'
 });
