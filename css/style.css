@@ -47,7 +47,7 @@ a, .btn, button {
 /*============= BANNER =============*/
 
 .bg-resume {
-  background-color: #8095BF;
+  background-color: rgba(91, 116, 166, .8);
 }
 .text-g {
   color: #A63E28;
@@ -96,7 +96,7 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: #8095BF;
+  background: rgba(128, 149, 191, .8);
   padding: .9rem .5rem;
 }
 .cursive {
