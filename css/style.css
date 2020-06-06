@@ -47,13 +47,16 @@ a, .btn, button {
 /*============= BANNER =============*/
 
 .bg-resume {
-  background-color: RGBA(242,235,213,.8);
+  background-color: RGBA(13,13,13,.8);
 }
 .text-g {
-  color: #F2CA52;
+  color: #F24141;
 }
 .text-red {
-  color: #03658C;
+  color: #F2CA52;
+}
+.cream {
+  color: #F2EBD5;
 }
 /*-- Button --*/
 .btn-lg {
@@ -67,13 +70,13 @@ a, .btn, button {
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .1);
 }
 .btn-red {
-  border-color: #03658C; /*-- ba3c4b EF8588 --*/
-  background-color: #03658C;
+  border-color: #F2CA52; /*-- ba3c4b EF8588 --*/
+  background-color: #F2CA52;
   color: white;
 }
 .btn-red:hover,
 .btn-red:focus {
-  border-color: #03658C!important;
+  border-color: #F2CA52!important;
   background-color: white;
   color: black;
 }
@@ -96,7 +99,7 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: RGBA(242,235,213,.8);
+  background: RGBA(13,13,13,.8);
   padding: .9rem .5rem;
 }
 .cursive {
@@ -114,7 +117,7 @@ img {
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
-  color: #03658C!important;
+  color: #F2CA52!important;
 }
 @media (min-width: 992px) {
   .navbar-brand {
@@ -130,10 +133,10 @@ img {
   margin: 1rem auto 1.5rem;
   width: 5rem;
   height: .2rem;
-  background-color: #F2CA52;
+  background-color: #F24141;
 }
 .about .svg-inline--fa {
-  color: #03658C;
+  color: #F2CA52;
   font-size: 1.15rem;
   margin-left: 0;
   padding-left: 0;
@@ -229,12 +232,12 @@ img {
   margin: 1rem 0 1.5rem;
   width: 3rem;
   height: .15rem;
-  background-color: #F2CA52;
+  background-color: #F24141;
 }
 
 /*-- Red Date Circle --*/
 .history-circle {
-  background-color: #03658C;
+  background-color: #F2CA52;
   border-radius: 50%;
   border: .2rem solid #F8F9FA;
   min-height: 11rem;
@@ -257,7 +260,7 @@ img {
   margin: 1rem auto;
 }
 .circle canvas {
-  background-color: #F2CA52;
+  background-color: #F24141;
   border-radius: 50%;
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .15);
 }
@@ -292,7 +295,7 @@ img {
 a.filter.is-checked,
 li a.nav-link.filter.active,
 li a.nav-link.filter:hover {
-  background-color: #F2CA52!important;
+  background-color: #F24141!important;
   color: #fff!important;
   cursor: pointer!important;
 }
@@ -371,7 +374,7 @@ a.nav-link.filter {
 /*============= FOOTER =============*/
 
 footer {
-  background-color: RGBA(242,235,213,.8);
+  background-color: RGBA(13,13,13,.8);
 }
 footer .cursive {
   margin-bottom: 1rem;
@@ -395,7 +398,7 @@ ul.social li {
   padding-right: .6rem;
 }
 footer .social a:hover {
-  color: #F2CA52;
+  color: #F24141;
   text-decoration: none;
 }
 footer .svg-inline--fa.fa-w-14 {
@@ -405,7 +408,7 @@ footer .svg-inline--fa.fa-w-14 {
   transition: all 0.5s ease 0s;
 }
 footer svg.svg-inline--fa:hover {
-  color: #F2CA52!important;
+  color: #F24141!important;
 }
 
 /*--- Contact Form --*/
@@ -440,7 +443,7 @@ input.btn {
 /*============= SOCKET =============*/
 
 .socket {
-  background-color: #A66151;
+  background-color: #03658C;
   width: 100%;
 }
 .socket a {
