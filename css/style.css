@@ -47,13 +47,13 @@ a, .btn, button {
 /*============= BANNER =============*/
 
 .bg-resume {
-  background-color: rgba(91, 116, 166, .8);
+  background-color: RGBA(242,235,213,.8);
 }
 .text-g {
-  color: #A63E28;
+  color: #F2CA52;
 }
 .text-red {
-  color: #E9666A;
+  color: #03658C;
 }
 /*-- Button --*/
 .btn-lg {
@@ -67,13 +67,13 @@ a, .btn, button {
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .1);
 }
 .btn-red {
-  border-color: #E9666A; /*-- ba3c4b EF8588 --*/
-  background-color: #E9666A;
+  border-color: #03658C; /*-- ba3c4b EF8588 --*/
+  background-color: #03658C;
   color: white;
 }
 .btn-red:hover,
 .btn-red:focus {
-  border-color: #E9666A!important;
+  border-color: #03658C!important;
   background-color: white;
   color: black;
 }
@@ -96,24 +96,25 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: RGBA(13,13,13,.8);
+  background: RGBA(242,235,213,.8);
   padding: .9rem .5rem;
 }
 .cursive {
   font-family: 'Pacifico', cursive;
+  color: #F24141;
 }
 .svg-inline--fa.fa-w-14 {
-  color: #343A40;
+  color: #0D0D0D;
   font-size: 1.6rem;
 }
 .navbar-nav .nav-link {
-  color: #343A40;
+  color: #0D0D0D;
   font-size: 1.1rem;
   font-weight: 500;
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
-  color: #E9666A!important;
+  color: #03658C!important;
 }
 @media (min-width: 992px) {
   .navbar-brand {
@@ -129,10 +130,10 @@ img {
   margin: 1rem auto 1.5rem;
   width: 5rem;
   height: .2rem;
-  background-color: #A63E28;
+  background-color: #F2CA52;
 }
 .about .svg-inline--fa {
-  color: #E9666A;
+  color: #03658C;
   font-size: 1.15rem;
   margin-left: 0;
   padding-left: 0;
@@ -228,12 +229,12 @@ img {
   margin: 1rem 0 1.5rem;
   width: 3rem;
   height: .15rem;
-  background-color: #A63E28;
+  background-color: #F2CA52;
 }
 
 /*-- Red Date Circle --*/
 .history-circle {
-  background-color: #E9666A;
+  background-color: #03658C;
   border-radius: 50%;
   border: .2rem solid #F8F9FA;
   min-height: 11rem;
@@ -256,7 +257,7 @@ img {
   margin: 1rem auto;
 }
 .circle canvas {
-  background-color: #A63E28;
+  background-color: #F2CA52;
   border-radius: 50%;
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .15);
 }
@@ -291,7 +292,7 @@ img {
 a.filter.is-checked,
 li a.nav-link.filter.active,
 li a.nav-link.filter:hover {
-  background-color: #A63E28!important;
+  background-color: #F2CA52!important;
   color: #fff!important;
   cursor: pointer!important;
 }
@@ -370,7 +371,7 @@ a.nav-link.filter {
 /*============= FOOTER =============*/
 
 footer {
-  background-color: RGBA(13,13,13,.8);
+  background-color: RGBA(242,235,213,.8);
 }
 footer .cursive {
   margin-bottom: 1rem;
@@ -394,7 +395,7 @@ ul.social li {
   padding-right: .6rem;
 }
 footer .social a:hover {
-  color: #A63E28;
+  color: #F2CA52;
   text-decoration: none;
 }
 footer .svg-inline--fa.fa-w-14 {
@@ -404,7 +405,7 @@ footer .svg-inline--fa.fa-w-14 {
   transition: all 0.5s ease 0s;
 }
 footer svg.svg-inline--fa:hover {
-  color: #A63E28!important;
+  color: #F2CA52!important;
 }
 
 /*--- Contact Form --*/
