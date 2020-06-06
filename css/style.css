@@ -50,7 +50,7 @@ a, .btn, button {
   background-color: #8095BF;
 }
 .text-g {
-  color: #8C7E37;
+  color: #A63E28;
 }
 .text-red {
   color: #E9666A;
@@ -96,7 +96,7 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: rgba(230, 239, 240, .8);
+  background: #8095BF;
   padding: .9rem .5rem;
 }
 .cursive {
@@ -129,7 +129,7 @@ img {
   margin: 1rem auto 1.5rem;
   width: 5rem;
   height: .2rem;
-  background-color: #8C7E37;
+  background-color: #A63E28;
 }
 .about .svg-inline--fa {
   color: #E9666A;
@@ -228,7 +228,7 @@ img {
   margin: 1rem 0 1.5rem;
   width: 3rem;
   height: .15rem;
-  background-color: #8C7E37;
+  background-color: #A63E28;
 }
 
 /*-- Red Date Circle --*/
@@ -256,7 +256,7 @@ img {
   margin: 1rem auto;
 }
 .circle canvas {
-  background-color: #8C7E37;
+  background-color: #A63E28;
   border-radius: 50%;
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .15);
 }
@@ -291,7 +291,7 @@ img {
 a.filter.is-checked,
 li a.nav-link.filter.active,
 li a.nav-link.filter:hover {
-  background-color: #8C7E37!important;
+  background-color: #A63E28!important;
   color: #fff!important;
   cursor: pointer!important;
 }
@@ -394,7 +394,7 @@ ul.social li {
   padding-right: .6rem;
 }
 footer .social a:hover {
-  color: #8C7E37;
+  color: #A63E28;
   text-decoration: none;
 }
 footer .svg-inline--fa.fa-w-14 {
@@ -404,7 +404,7 @@ footer .svg-inline--fa.fa-w-14 {
   transition: all 0.5s ease 0s;
 }
 footer svg.svg-inline--fa:hover {
-  color: #8C7E37!important;
+  color: #A63E28!important;
 }
 
 /*--- Contact Form --*/
