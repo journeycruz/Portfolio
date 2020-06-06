@@ -392,6 +392,7 @@ ul.social {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 ul.social li {
   display: inline;
