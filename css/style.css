@@ -17,6 +17,15 @@ body {
   color: #616971;
 }
 
+.profile-pic {
+	box-shadow: 0px 4px 6px 2px lightgrey;
+  border-radius: 50%
+}
+
+
+
+
+
 /*-- Option: Add Extra Bootstrap Column Padding --*/
 [class*="col-"] {
   padding: 1rem;
