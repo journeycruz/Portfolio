@@ -100,7 +100,6 @@ img {
 
 .navbar {
   background: RGBA(21,30,85,.8);
-  padding: .9rem .5rem;
   border-bottom: 5px solid #6A9BA6;
 }
 .cursive {
@@ -446,7 +445,7 @@ input.btn {
 /*============= SOCKET =============*/
 
 .socket {
-  background-color: #593A15;
+  background-color: #2F3240;
   width: 100%;
   text-align: center;
 }
