@@ -303,7 +303,7 @@ img {
 a.filter.is-checked,
 li a.nav-link.filter.active,
 li a.nav-link.filter:hover {
-  background-color: #0D0D0D!important;
+  background-color: #162059!important;
   color: #fff!important;
   cursor: pointer!important;
 }
