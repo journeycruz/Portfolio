@@ -89,14 +89,13 @@ a, .btn, button {
 }
 /*-- Banner Image --*/
 .banner-img {
-  max-height: 23rem!important;
+  max-height: 12rem!important;
   border-radius: 50%!important;
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .1);
 }
 img {
-  max-width: 50%;
+  max-width: 100%;
 }
-
 /*============= NAVIGATION =============*/
 
 .navbar {
