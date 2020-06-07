@@ -33,7 +33,7 @@ body {
 }
 
 ul#horizontal-list {
-	min-width: 696px;
+	min-width: 50%;
 	list-style: none;
 	padding-top: 20px;
 	}
