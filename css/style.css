@@ -100,20 +100,22 @@ img {
 
 .navbar {
   background: RGBA(21,30,85,.8);
+  padding: .9rem .5rem;
   border-bottom: 5px solid #6A9BA6;
 }
 #projectNav {
-  background: #0D0D0D;
+  background: RGBA(13,13,13,.8);
+  border: none;
 }
 #projNavLink {
-  color: #162059
+  color: white;
 }
 .cursive {
   font-family: 'Pacifico', cursive;
   color: #0D0D0D;
 }
 .svg-inline--fa.fa-w-14 {
-  color: #0D0D0D;
+  color: #806FA6;
   font-size: 1.6rem;
 }
 .navbar-nav .nav-link {
