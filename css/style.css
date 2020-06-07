@@ -447,9 +447,11 @@ input.btn {
 .socket {
   background-color: #593A15;
   width: 100%;
+  text-align: center;
 }
 .socket a {
   color: white;
+  text-align: center;
 }
 
 /*============= TOP SCROLL =============*/
