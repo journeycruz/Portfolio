@@ -93,7 +93,7 @@ a, .btn, button {
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .1);
 }
 img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 /*============= NAVIGATION =============*/
