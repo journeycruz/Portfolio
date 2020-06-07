@@ -47,7 +47,7 @@ a, .btn, button {
 /*============= BANNER =============*/
 
 .bg-resume {
-  background-color: RGBA(47,50,64,.8);
+  background-color: #D3D3D3;
 }
 .text-g {
   color: #0D0D0D;
@@ -99,9 +99,10 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: #162059;
+  background: RGBA(22,32,89,.9);
   padding: 0rem .5rem;
-  border-bottom: 5px solid #B3F2F2;
+  border-bottom: 2px solid #4BA661;
+  border-top: 2px solid #4BA661;
 }
 #projectNav {
   background: RGBA(13,13,13,.8);
@@ -382,7 +383,7 @@ a.nav-link.filter {
 /*============= FOOTER =============*/
 
 footer {
-  background-color: #162059;
+  background-color: RGBA(22,32,89,.9);
 }
 footer .cursive {
   margin-bottom: 1rem;
