@@ -395,7 +395,8 @@ ul.social {
   text-align: center;
 }
 ul.social li {
-  display: inline;
+  display: inline-block;
+  text-align: center;
   padding-right: .6rem;
 }
 footer .social a:hover {
