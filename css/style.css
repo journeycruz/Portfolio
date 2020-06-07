@@ -18,7 +18,7 @@ body {
 }
 
 .profile-pic {
-	box-shadow: 0px 4px 6px 2px lightgrey;
+	box-shadow: 0px 4px 6px 2px black;
   border-radius: 50%
 }
 
@@ -56,7 +56,7 @@ a, .btn, button {
 /*============= BANNER =============*/
 
 .bg-resume {
-  background-color: #4C5D73;
+  background-color: #BFBFBD;
 }
 .text-g {
   color: #0D0D0D;
@@ -108,7 +108,7 @@ img {
 /*============= NAVIGATION =============*/
 
 .navbar {
-  background: RGBA(1,22,64,.8);
+  background: RGBA(217,67,13,.8);
   padding: 0rem 0rem;
 }
 #projectNav {
@@ -390,7 +390,7 @@ a.nav-link.filter {
 /*============= FOOTER =============*/
 
 footer {
-  background-color: RGBA(1,22,64,.8);
+  background-color: RGBA(89,64,42,.8);
 }
 footer .cursive {
   margin-bottom: 1rem;
