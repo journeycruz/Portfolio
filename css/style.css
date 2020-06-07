@@ -102,6 +102,12 @@ img {
   background: RGBA(21,30,85,.8);
   border-bottom: 5px solid #6A9BA6;
 }
+#projectNav {
+  background: #0D0D0D;
+}
+#projNavLink {
+  color: #162059
+}
 .cursive {
   font-family: 'Pacifico', cursive;
   color: #0D0D0D;
@@ -445,7 +451,7 @@ input.btn {
 /*============= SOCKET =============*/
 
 .socket {
-  background-color: #2F3240;
+  background-color: black;
   width: 100%;
   text-align: center;
 }
