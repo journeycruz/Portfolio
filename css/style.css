@@ -16,9 +16,17 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #616971;
 }
-
+.text-black {
+  color: black;
+}
+#contact-underline {
+  margin: 1rem auto 1.5rem;
+  width: 5rem;
+  height: .2rem;
+  background-color: black;
+}
 .profile-pic {
-	box-shadow: 2px black;
+	box-shadow: 8px black;
   border-radius: 50%
 }
 
@@ -33,7 +41,7 @@ body {
 }
 
 ul#horizontal-list {
-	min-width: 50%;
+	min-width: 100%;
 	list-style: none;
 	padding-top: 20px;
 	}
@@ -140,7 +148,7 @@ img {
   color: #0D0D0D;
 }
 .svg-inline--fa.fa-w-14 {
-  color: #BFBFBD;
+  color: #D9430D;
   font-size: 1.6rem;
 }
 .navbar-nav .nav-link {
@@ -407,7 +415,7 @@ a.nav-link.filter {
 /*============= FOOTER =============*/
 
 footer {
-  background-color: RGBA(89,64,42,.8);
+  background-color: RGBA(217,199,184,.8);
 }
 footer .cursive {
   margin-bottom: 1rem;
