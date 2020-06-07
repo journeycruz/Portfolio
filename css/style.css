@@ -18,8 +18,8 @@ body {
 }
 
 .profile-pic {
-	box-shadow: 4px 4px 4px 4px black;
-  border-radius: 0%
+	box-shadow: 2px black;
+  border-radius: 50%
 }
 
 #menu-outer {
