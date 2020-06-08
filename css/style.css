@@ -157,7 +157,7 @@ img {
   font-weight: 500;
 }
 .nlist {
-  float: center;
+  float: right;
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
