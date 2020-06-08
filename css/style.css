@@ -41,7 +41,6 @@ body {
 }
 
 ul#horizontal-list {
-	min-width: 100%;
 	list-style: none;
 	padding-top: 20px;
 	}
