@@ -157,7 +157,7 @@ img {
   font-weight: 500;
 }
 .nlist {
-  float: center;
+  text-align: center;
   min-width: 100%;
 }
 .navbar-nav .nav-link.active,
