@@ -158,7 +158,7 @@ img {
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
-  color: #D9D9D9!important;
+  color: #D9430D!important;
 }
 @media (min-width: 992px) {
   .navbar-brand {
