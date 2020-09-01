@@ -26,11 +26,11 @@ class AboutTabs extends Component{
                                         <div className="single-tab-content">
                                             <ul>
                                                 <li>
-                                                    <a href="/service">User experience design <span> - UI/UX</span></a>
+                                                    User experience design <span> - UI/UX</span>
                                                     Delight the user and make it work.
                                                 </li>
                                                 <li>
-                                                    <a href="/service">Web and user interface design<span> - Development</span></a>
+                                                    Web and user interface design<span> - Development</span>
                                                     Websites, web experiences, ...
                                                 </li>
                                                 <li>
@@ -44,13 +44,13 @@ class AboutTabs extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/service">Electrician<span> - R & R Electric</span></a> 2018 - Current
+                                                   Electrician<span> - R & R Electric</span> 2018 - Current
                                                </li>
                                                <li>
-                                                   <a href="/service">Porter Supervisor<span> - 1st Call Cleaning Services</span></a> 2016 - 2018
+                                                   Porter Supervisor<span> - 1st Call Cleaning Services</span> 2016 - 2018
                                                </li>
                                                <li>
-                                                   <a href="/service">Directional Driller<span> - Penlee Oil & Gas Consultants </span></a> 2013 - 2016
+                                                   Directional Driller<span> - Penlee Oil & Gas Consultants </span> 2013 - 2016
                                                </li>
                                            </ul>
                                        </div>
@@ -60,7 +60,7 @@ class AboutTabs extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/service">Certificate of Completion <span> - Full Stack Web Development, UTSA</span></a> September 2020
+                                                   Certificate of Completion <span> - Full Stack Web Development, UTSA</span> September 2020
                                                </li>
                                             </ul>
                                             <br />
