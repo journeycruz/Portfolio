@@ -10,7 +10,7 @@ import Footer from './components/Footer';
   
 function App() {
   let title = 'About Me',
-  description = 'I enjoy helping people reach larger audiences by creating user interfaces that are fast, interactive, and responsive. I am a problem-solver with a background in project management, data analysis, and I love to find creative ways to incorporate animations into my designs. I want to work with other developers to create influential electronic products.';
+  description = 'I enjoy helping people reach larger audiences by creating user interfaces that are fast, interactive, and responsive. I am a problem-solver with a background in project management, data analysis, and I love to find creative ways to incorporate animations into my designs. I want to work with other developers to create influential electronic products using ReactJS.';
 
   return (
     <div className="App">

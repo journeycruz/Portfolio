@@ -1,5 +1,5 @@
 import React ,{ Component }from "react";
-import { FiSmartphone, FiHardDrive, FiDatabase, FiCloud, FiCheckSquare, FiCode } from "react-icons/fi";
+import { FiSmartphone, FiHardDrive, FiDatabase, FiCloud, FiCheckSquare, FiDollarSign } from "react-icons/fi";
 
 const ServiceList = [
     {
@@ -22,16 +22,17 @@ const ServiceList = [
         title: 'Cloud Integration',
         description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
     },
-    {
-        icon: <FiCode />,
-        title: 'Object Oriented Programming',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
-    },
     { 
         icon: <FiCheckSquare />,
         title: 'Software Testing',
         description: 'Lets squash those bugs and get your software ready for production.'
-    }
+    },
+    {
+        icon: <FiDollarSign />,
+        title: 'E-commerce',
+        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+    },
+
 ]
 
 
